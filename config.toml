@@ -5,7 +5,8 @@ languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-rssLimit = 0
+
+disableKinds = ["RSS"]
 
 [params]
   description = "Posting on the Internet is fun!"

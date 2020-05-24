@@ -1,4 +1,4 @@
-baseURL = "https://elburrito.dev"
+baseURL = "https://epic-bartik-2bb8a0.netlify.app/"
 title = "Robert's Blog"
 theme = "etch"
 languageCode = "en-US"
@@ -12,9 +12,6 @@ disableKinds = ["RSS"]
   description = "Posting on the Internet is fun!"
   copyright = "Copyright © 2020 Robert Liu"
   highlight = true
-
-[permalinks]
-  posts = "/:title/"
 
 [markup.goldmark.renderer]
   # Allow HTML in Markdown

@@ -5,3 +5,5 @@ draft: true
 ---
 
 I'm interested in databases, distributed systems, and cloud services.
+
+Email: robert [at] elburrito.dev

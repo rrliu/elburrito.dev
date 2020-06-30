@@ -1,4 +1,4 @@
-baseURL = "https://competent-bhabha-d6809e.netlify.app/"
+baseURL = "https://elburrito.dev"
 title = "Robert's Blog"
 theme = "etch"
 languageCode = "en-US"
@@ -19,10 +19,3 @@ disableKinds = ["RSS"]
 [markup.goldmark.renderer]
   # Allow HTML in Markdown
   unsafe = true
-
-[deployment]
-order = [".jpg$", ".gif$"]
-
-[[deployment.targets]]
-name = "gcp"
-URL = "gs://www.elburrito.dev/"

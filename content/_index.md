@@ -1,4 +1,4 @@
 ---
-title: "Home"
+title: "Robert's Blog"
 ---
-A dog with a blog.
+Welcome to my blog! Here are some posts.

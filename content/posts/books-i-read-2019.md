@@ -5,8 +5,6 @@ draft = false
 tags = ["Books", "Reading list"]
 +++
 
-# Books I Read In 2019
-
 - G.H. Hardy, `A Mathematician's Apology`
 - A. Michael Noll, `Memories: A Personal History of Bell Telephone Laboratories`
 - Ezra Vogel, `Deng Xiaoping and the Transformation of China`

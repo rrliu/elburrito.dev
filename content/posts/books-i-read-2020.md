@@ -5,8 +5,6 @@ draft = false
 tags = ["Books", "Reading list"]
 +++
 
-# Books I Read In 2020
-
 - Ken Ono, `My Search for Ramanujan: How I Learned To Count`
 - Viktor Suvorov, `Aquarium: The Career and Defection of a Soviet Military Spy`
 - Sam Hughes, `Ra`

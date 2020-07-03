@@ -11,3 +11,4 @@ tags = ["Books", "Reading list"]
 - Sam Hughes, `Fine Structure`
 - Steven Levy, `In the Plex`
 - John McPhee, `La Place de la Concorde Suisse`
+- Rick Atkinson, `The British Are Coming: The War for America, Lexington to Princeton, 1775-1777`

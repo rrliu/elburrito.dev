@@ -1,5 +1,5 @@
 ---
-title: "Week Notes July 19 2020"
+title: "Week Notes: July 19, 2020"
 date: 2020-07-19T14:27:47-05:00
 draft: false
 ---

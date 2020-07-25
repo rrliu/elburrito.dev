@@ -11,5 +11,6 @@ tags = ["Books", "Reading list"]
 - Sam Hughes, `Fine Structure`
 - Steven Levy, `In the Plex`
 - John McPhee, `La Place de la Concorde Suisse`
+- G. Hayes & Ivan T. with N.R. Jenzen-Jones, `Desktop Firearms: Emergent Small Arms Craft Production Technologies`, ARES Research Report No. 8
 - Rick Atkinson, `The British Are Coming: The War for America, Lexington to Princeton, 1775-1777`
 - Dexter Filkins, `The Forever War`

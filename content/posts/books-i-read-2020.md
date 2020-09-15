@@ -15,3 +15,5 @@ tags = ["Books", "Reading list"]
 - Rick Atkinson, `The British Are Coming: The War for America, Lexington to Princeton, 1775-1777`
 - Dexter Filkins, `The Forever War`
 - Joshua Foer, `Moonwalking with Einstein: The Art and Science of Remembering Everything`
+- Cixin Liu, `The Three-Body Problem`
+- Cixin Liu, `The Dark Forest`

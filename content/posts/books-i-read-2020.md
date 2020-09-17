@@ -17,3 +17,4 @@ tags = ["Books", "Reading list"]
 - Joshua Foer, `Moonwalking with Einstein: The Art and Science of Remembering Everything`
 - Cixin Liu, `The Three-Body Problem`
 - Cixin Liu, `The Dark Forest`
+- Christopher Browning, `Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland`

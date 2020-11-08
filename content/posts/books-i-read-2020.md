@@ -19,3 +19,4 @@ tags = ["Books", "Reading list"]
 - Cixin Liu, `The Dark Forest`
 - Christopher Browning, `Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland`
 - Ronen Bergman, `Rise and Kill First: The Secret History of Israel's Targeted Assassinations`
+- Thomas Stanley and William Danko, `The Millionaire Next Door: The Surprising Secrets of America's Wealthy`

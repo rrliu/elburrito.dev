@@ -21,3 +21,5 @@ tags = ["Books", "Reading list"]
 - Ronen Bergman, `Rise and Kill First: The Secret History of Israel's Targeted Assassinations`
 - Thomas Stanley and William Danko, `The Millionaire Next Door: The Surprising Secrets of America's Wealthy`
 - George Horace Lorimer, `Letters from a Self-Made Merchant to his Son`
+- Abraham Rabinovich, `The Yom Kippur War: The Epic Encounter That Transformed the Middle East`
+- George Orwell, `The Road to Wigan Pier`

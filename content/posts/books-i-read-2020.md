@@ -23,3 +23,5 @@ tags = ["Books", "Reading list"]
 - George Horace Lorimer, `Letters from a Self-Made Merchant to his Son`
 - Abraham Rabinovich, `The Yom Kippur War: The Epic Encounter That Transformed the Middle East`
 - George Orwell, `The Road to Wigan Pier`
+- Travis J. I. Corcoran, `The Powers of the Earth`
+- Travis J. I. Corcoran, `Causes of Separation`

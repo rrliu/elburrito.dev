@@ -25,3 +25,4 @@ tags = ["Books", "Reading list"]
 - George Orwell, `The Road to Wigan Pier`
 - Travis J. I. Corcoran, `The Powers of the Earth`
 - Travis J. I. Corcoran, `Causes of Separation`
+- Michael Hutchinson, `Faster: The Obsession, Science, and Luck Behind The World's Fastest Cyclists`

@@ -26,3 +26,4 @@ tags = ["Books", "Reading list"]
 - Travis J. I. Corcoran, `The Powers of the Earth`
 - Travis J. I. Corcoran, `Causes of Separation`
 - Michael Hutchinson, `Faster: The Obsession, Science, and Luck Behind The World's Fastest Cyclists`
+- Dominique Pierre and Larry Collins, `O Jerusalem!`

@@ -7,3 +7,4 @@ draft: false
 - Ben Lindbergh & Travis Sawchik, `The MVP Machine: How Baseball's New Nonconformists Are Using Data To Build Better Players`
 - David Howarth, `We Die Alone: A WWII Epic of Escape and Endurance`
 - Odd Arne Westad, `Decisive Encounters: The Chinese Civil War, 1946-1950`
+- Project Itoh, `Genocidal Organ`

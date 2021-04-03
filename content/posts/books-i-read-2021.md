@@ -8,3 +8,4 @@ draft: false
 - David Howarth, `We Die Alone: A WWII Epic of Escape and Endurance`
 - Odd Arne Westad, `Decisive Encounters: The Chinese Civil War, 1946-1950`
 - Project Itoh, `Genocidal Organ`
+- L. David Marquet, `Turn The Ship Around! A True Story of Turning Followers Into Leaders`

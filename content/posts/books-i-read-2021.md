@@ -10,3 +10,4 @@ draft: false
 - Project Itoh, `Genocidal Organ`
 - L. David Marquet, `Turn The Ship Around! A True Story of Turning Followers Into Leaders`
 - Frank Dikötter, `The Tragedy of Revolution: A History of the Chinese Revolution, 1945-1957`
+- Dmitry Orlov, `The Five Stages of Collapse: Survivors' Toolkit`

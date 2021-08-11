@@ -11,3 +11,5 @@ draft: false
 - L. David Marquet, `Turn The Ship Around! A True Story of Turning Followers Into Leaders`
 - Frank Dikötter, `The Tragedy of Revolution: A History of the Chinese Revolution, 1945-1957`
 - Dmitry Orlov, `The Five Stages of Collapse: Survivors' Toolkit`
+- Ben Lindbergh & Sam Miller, `The Only Rule Is It Has To Work: Our Wild Experiment Building a New Kind of Baseball Team`
+- Tom Wolfe, `The Right Stuff`

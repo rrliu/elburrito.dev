@@ -13,3 +13,4 @@ draft: false
 - Dmitry Orlov, `The Five Stages of Collapse: Survivors' Toolkit`
 - Ben Lindbergh & Sam Miller, `The Only Rule Is It Has To Work: Our Wild Experiment Building a New Kind of Baseball Team`
 - Tom Wolfe, `The Right Stuff`
+- Wesley Morgan, `The Hardest Place: The American Military Adrift in Afghanistan's Pech Valley`

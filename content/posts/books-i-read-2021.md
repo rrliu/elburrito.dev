@@ -12,6 +12,10 @@ draft: false
 - Frank Dikötter, `The Tragedy of Revolution: A History of the Chinese Revolution, 1945-1957`
 - Dmitry Orlov, `The Five Stages of Collapse: Survivors' Toolkit`
 - Ben Lindbergh & Sam Miller, `The Only Rule Is It Has To Work: Our Wild Experiment Building a New Kind of Baseball Team`
+- Brad Stone, `Amazon Unbound: Jeff Bezos and the Invention of a Global Empire`
 - Tom Wolfe, `The Right Stuff`
 - Wesley Morgan, `The Hardest Place: The American Military Adrift in Afghanistan's Pech Valley`
 - Rodric Braithwaite, `Afgantsy: The Russians in Afghanistan, 1979-1989`
+- Gregory Zuckerman, `The Man Who Solved The Market: How Jim Simons Launched The Quant Revolution`
+- Patrick Radden Keefe, `Say Nothing: A True Story of Murder and Memory in Northern Ireland`
+- Carole Hooven, `T: The Story of Testosterone, the Hormone that Dominates and Divides Us`
